@@ -21,8 +21,6 @@
 
 <br>
 
-![](https://github.com/KiHwanY/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/KiHwanY/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 </div>
