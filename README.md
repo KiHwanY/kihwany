@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=KiHwan%20Yun&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=Hwan_velop&descSize=25&descAlign=85&descAlignY=50)
 
-<!--
-**KiHwanY/kihwany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠 Teck Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> 📫 About Me 📫 </h3>
+<p align="center">
+  <a href="https://drg2524.tistory.com/"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://drg2524.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/__h__wan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/__h__wan/"/></a>&nbsp
+</p>
+
+<br>
+
+![](https://github.com/KiHwanY/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/KiHwanY/github-stats-transparent/blob/output/generated/languages.svg)
+
+
+</div>
