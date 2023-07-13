@@ -15,8 +15,10 @@
 
 <h3 align="center"> 📫 About Me 📫 </h3>
 <p align="center">
-  <a href="https://drg2524.tistory.com/"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://drg2524.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/__h__wan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/__h__wan/"/></a>&nbsp
+ 📝 Blog : https://drg2524.tistory.com/<br>
+📫 Contact : drg2524@naver.com<br>
+🏢 Instagram : https://www.instagram.com/__h__wan/<br>
+📜 Portfolio :https://www.notion.so/Hwan_velop-4b6432da97e44f5bacd7a6d34dde8e2c<br>
 </p>
 
 <br>
