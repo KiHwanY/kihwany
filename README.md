@@ -9,7 +9,7 @@
  📝 Blog : https://drg2524.tistory.com/<br>
 📫 Contact : drg2524@naver.com<br>
 🏢 Instagram : https://www.instagram.com/__h__wan/<br>
-📜 Portfolio :https://www.notion.so/Hwan_velop-4b6432da97e44f5bacd7a6d34dde8e2c<br>
+📜 Portfolio :https://mighty-girdle-b39.notion.site/Hwan_velop-4b6432da97e44f5bacd7a6d34dde8e2c?pvs=4<br>
 </p>
 
 <br>
