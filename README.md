@@ -8,7 +8,6 @@
 <p align="center">
  📝 Blog : https://drg2524.tistory.com/<br>
 📫 Contact : drg2524@naver.com<br>
-🏢 Instagram : https://www.instagram.com/__h__wan/<br>
 📜 Portfolio :https://mighty-girdle-b39.notion.site/1c7c31b3c54c40c38f77567f51f55bee<br>
 </p>
 
